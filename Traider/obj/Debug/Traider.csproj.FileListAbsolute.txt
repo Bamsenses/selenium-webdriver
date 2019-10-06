@@ -1,0 +1,136 @@
+c:\users\user\documents\visual studio 2015\Projects\Traider\Traider\bin\Debug\Traider.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Traider\Traider\obj\Debug\Traider.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\Traider\Traider\obj\Debug\Traider.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Traider\Traider\obj\Debug\Traider.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Traider\Traider\bin\Debug\Traider.exe
+c:\users\user\documents\visual studio 2015\Projects\Traider\Traider\bin\Debug\Traider.pdb
+c:\users\user\documents\visual studio 2015\Projects\Traider\Traider\bin\Debug\WebDriver.dll
+c:\users\user\documents\visual studio 2015\Projects\Traider\Traider\obj\Debug\Traider.exe
+c:\users\user\documents\visual studio 2015\Projects\Traider\Traider\obj\Debug\Traider.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Traider\Traider\obj\Debug\Traider.csprojResolveAssemblyReference.cache
+C:\Users\Kulema\documents\visual studio 2015\Projects\Traider\Traider\bin\Debug\Traider.exe.config
+C:\Users\Kulema\documents\visual studio 2015\Projects\Traider\Traider\obj\Debug\Traider.exe
+C:\Users\Kulema\documents\visual studio 2015\Projects\Traider\Traider\obj\Debug\Traider.pdb
+C:\Users\Kulema\documents\visual studio 2015\Projects\Traider\Traider\bin\Debug\Traider.exe
+C:\Users\Kulema\documents\visual studio 2015\Projects\Traider\Traider\bin\Debug\Traider.pdb
+C:\Users\Kulema\documents\visual studio 2015\Projects\Traider\Traider\bin\Debug\WebDriver.dll
+C:\Users\Kulema\documents\visual studio 2015\Projects\Traider\Traider\obj\Debug\Traider.csprojResolveAssemblyReference.cache
+C:\Users\Kulema\documents\visual studio 2015\Projects\Traider\Traider\obj\Debug\Traider.Form1.resources
+C:\Users\Kulema\documents\visual studio 2015\Projects\Traider\Traider\obj\Debug\Traider.Properties.Resources.resources
+C:\Users\Kulema\documents\visual studio 2015\Projects\Traider\Traider\obj\Debug\Traider.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Traider5min\Traider\bin\Debug\Traider.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Traider5min\Traider\obj\Debug\Traider.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Traider5min\Traider\obj\Debug\Traider.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Traider5min\Traider\bin\Debug\Traider.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Traider5min\Traider\bin\Debug\Traider.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Traider5min\Traider\bin\Debug\WebDriver.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Traider5min\Traider\obj\Debug\Traider.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Traider5min\Traider\obj\Debug\Traider.Form1.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Traider5min\Traider\obj\Debug\Traider.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Traider5min\Traider\obj\Debug\Traider.csproj.GenerateResource.Cache
+C:\Users\Kulema\Documents\Visual Studio 2015\Projects\Traider5min\Traider\bin\Debug\Traider.exe.config
+C:\Users\Kulema\Documents\Visual Studio 2015\Projects\Traider5min\Traider\obj\Debug\Traider.exe
+C:\Users\Kulema\Documents\Visual Studio 2015\Projects\Traider5min\Traider\obj\Debug\Traider.pdb
+C:\Users\Kulema\Documents\Visual Studio 2015\Projects\Traider5min\Traider\bin\Debug\Traider.exe
+C:\Users\Kulema\Documents\Visual Studio 2015\Projects\Traider5min\Traider\bin\Debug\Traider.pdb
+C:\Users\Kulema\Documents\Visual Studio 2015\Projects\Traider5min\Traider\bin\Debug\WebDriver.dll
+C:\Users\Kulema\Documents\Visual Studio 2015\Projects\Traider5min\Traider\obj\Debug\Traider.csprojResolveAssemblyReference.cache
+C:\Users\Kulema\Documents\Visual Studio 2015\Projects\Traider5min\Traider\obj\Debug\Traider.Form1.resources
+C:\Users\Kulema\Documents\Visual Studio 2015\Projects\Traider5min\Traider\obj\Debug\Traider.Properties.Resources.resources
+C:\Users\Kulema\Documents\Visual Studio 2015\Projects\Traider5min\Traider\obj\Debug\Traider.csproj.GenerateResource.Cache
+C:\Users\Kulema\Documents\Visual Studio 2015\Projects\Traider против 2м\Traider\bin\Debug\Traider.exe.config
+C:\Users\Kulema\Documents\Visual Studio 2015\Projects\Traider против 2м\Traider\obj\Debug\Traider.exe
+C:\Users\Kulema\Documents\Visual Studio 2015\Projects\Traider против 2м\Traider\obj\Debug\Traider.pdb
+C:\Users\Kulema\Documents\Visual Studio 2015\Projects\Traider против 2м\Traider\bin\Debug\Traider.exe
+C:\Users\Kulema\Documents\Visual Studio 2015\Projects\Traider против 2м\Traider\bin\Debug\Traider.pdb
+C:\Users\Kulema\Documents\Visual Studio 2015\Projects\Traider против 2м\Traider\bin\Debug\WebDriver.dll
+C:\Users\Kulema\Documents\Visual Studio 2015\Projects\Traider против 2м\Traider\obj\Debug\Traider.csprojResolveAssemblyReference.cache
+C:\Users\Kulema\Documents\Visual Studio 2015\Projects\Traider против 2м\Traider\obj\Debug\Traider.Form1.resources
+C:\Users\Kulema\Documents\Visual Studio 2015\Projects\Traider против 2м\Traider\obj\Debug\Traider.Properties.Resources.resources
+C:\Users\Kulema\Documents\Visual Studio 2015\Projects\Traider против 2м\Traider\obj\Debug\Traider.csproj.GenerateResource.Cache
+C:\Users\Kulema\Documents\Visual Studio 2015\Projects\Traider против 3м с переворотами\Traider\bin\Debug\Traider.exe.config
+C:\Users\Kulema\Documents\Visual Studio 2015\Projects\Traider против 3м с переворотами\Traider\obj\Debug\Traider.exe
+C:\Users\Kulema\Documents\Visual Studio 2015\Projects\Traider против 3м с переворотами\Traider\obj\Debug\Traider.pdb
+C:\Users\Kulema\Documents\Visual Studio 2015\Projects\Traider против 3м с переворотами\Traider\bin\Debug\Traider.exe
+C:\Users\Kulema\Documents\Visual Studio 2015\Projects\Traider против 3м с переворотами\Traider\bin\Debug\Traider.pdb
+C:\Users\Kulema\Documents\Visual Studio 2015\Projects\Traider против 3м с переворотами\Traider\bin\Debug\WebDriver.dll
+C:\Users\Kulema\Documents\Visual Studio 2015\Projects\Traider против 3м с переворотами\Traider\obj\Debug\Traider.csprojResolveAssemblyReference.cache
+C:\Users\Kulema\Documents\Visual Studio 2015\Projects\Traider против 3м с переворотами\Traider\obj\Debug\Traider.Form1.resources
+C:\Users\Kulema\Documents\Visual Studio 2015\Projects\Traider против 3м с переворотами\Traider\obj\Debug\Traider.Properties.Resources.resources
+C:\Users\Kulema\Documents\Visual Studio 2015\Projects\Traider против 3м с переворотами\Traider\obj\Debug\Traider.csproj.GenerateResource.Cache
+C:\Users\Kulema\Documents\Visual Studio 2015\Projects\Traider против 3м с переворотами - копия\Traider\bin\Debug\Traider.exe.config
+C:\Users\Kulema\Documents\Visual Studio 2015\Projects\Traider против 3м с переворотами - копия\Traider\obj\Debug\Traider.exe
+C:\Users\Kulema\Documents\Visual Studio 2015\Projects\Traider против 3м с переворотами - копия\Traider\obj\Debug\Traider.pdb
+C:\Users\Kulema\Documents\Visual Studio 2015\Projects\Traider против 3м с переворотами - копия\Traider\bin\Debug\Traider.exe
+C:\Users\Kulema\Documents\Visual Studio 2015\Projects\Traider против 3м с переворотами - копия\Traider\bin\Debug\Traider.pdb
+C:\Users\Kulema\Documents\Visual Studio 2015\Projects\Traider против 3м с переворотами - копия\Traider\bin\Debug\WebDriver.dll
+C:\Users\Kulema\Documents\Visual Studio 2015\Projects\Traider против 3м с переворотами - копия\Traider\obj\Debug\Traider.csprojResolveAssemblyReference.cache
+C:\Users\Kulema\Documents\Visual Studio 2015\Projects\Traider против 3м с переворотами - копия\Traider\obj\Debug\Traider.Form1.resources
+C:\Users\Kulema\Documents\Visual Studio 2015\Projects\Traider против 3м с переворотами - копия\Traider\obj\Debug\Traider.Properties.Resources.resources
+C:\Users\Kulema\Documents\Visual Studio 2015\Projects\Traider против 3м с переворотами - копия\Traider\obj\Debug\Traider.csproj.GenerateResource.Cache
+C:\Users\Kulema\Documents\Visual Studio 2015\Projects\Traider против 3м с переворотами реал\Traider\bin\Debug\Traider.exe.config
+C:\Users\Kulema\Documents\Visual Studio 2015\Projects\Traider против 3м с переворотами реал\Traider\obj\Debug\Traider.exe
+C:\Users\Kulema\Documents\Visual Studio 2015\Projects\Traider против 3м с переворотами реал\Traider\obj\Debug\Traider.pdb
+C:\Users\Kulema\Documents\Visual Studio 2015\Projects\Traider против 3м с переворотами реал\Traider\bin\Debug\Traider.exe
+C:\Users\Kulema\Documents\Visual Studio 2015\Projects\Traider против 3м с переворотами реал\Traider\bin\Debug\Traider.pdb
+C:\Users\Kulema\Documents\Visual Studio 2015\Projects\Traider против 3м с переворотами реал\Traider\bin\Debug\WebDriver.dll
+C:\Users\Kulema\Documents\Visual Studio 2015\Projects\Traider против 3м с переворотами реал\Traider\obj\Debug\Traider.csprojResolveAssemblyReference.cache
+C:\Users\Kulema\Documents\Visual Studio 2015\Projects\Traider против 3м с переворотами реал\Traider\obj\Debug\Traider.Form1.resources
+C:\Users\Kulema\Documents\Visual Studio 2015\Projects\Traider против 3м с переворотами реал\Traider\obj\Debug\Traider.Properties.Resources.resources
+C:\Users\Kulema\Documents\Visual Studio 2015\Projects\Traider против 3м с переворотами реал\Traider\obj\Debug\Traider.csproj.GenerateResource.Cache
+C:\Users\Kulema\Documents\Visual Studio 2015\Projects\Traider непонятность\Traider\bin\Debug\Traider.exe.config
+C:\Users\Kulema\Documents\Visual Studio 2015\Projects\Traider непонятность\Traider\obj\Debug\Traider.exe
+C:\Users\Kulema\Documents\Visual Studio 2015\Projects\Traider непонятность\Traider\obj\Debug\Traider.pdb
+C:\Users\Kulema\Documents\Visual Studio 2015\Projects\Traider непонятность\Traider\obj\Debug\Traider.csprojResolveAssemblyReference.cache
+C:\Users\Kulema\Documents\Visual Studio 2015\Projects\Traider непонятность\Traider\obj\Debug\Traider.Form1.resources
+C:\Users\Kulema\Documents\Visual Studio 2015\Projects\Traider непонятность\Traider\obj\Debug\Traider.Properties.Resources.resources
+C:\Users\Kulema\Documents\Visual Studio 2015\Projects\Traider непонятность\Traider\obj\Debug\Traider.csproj.GenerateResource.Cache
+C:\Users\Kulema\Documents\Visual Studio 2015\Projects\Traider непонятность\Traider\bin\Debug\Traider.exe
+C:\Users\Kulema\Documents\Visual Studio 2015\Projects\Traider непонятность\Traider\bin\Debug\Traider.pdb
+C:\Users\Kulema\Documents\Visual Studio 2015\Projects\Traider непонятность\Traider\bin\Debug\WebDriver.dll
+D:\MoiDoki\Projects Visua Studio 2015\Traider непонятность\Traider\bin\Debug\Traider.exe.config
+D:\MoiDoki\Projects Visua Studio 2015\Traider непонятность\Traider\obj\Debug\Traider.exe
+D:\MoiDoki\Projects Visua Studio 2015\Traider непонятность\Traider\obj\Debug\Traider.pdb
+D:\MoiDoki\Projects Visua Studio 2015\Traider непонятность\Traider\bin\Debug\Traider.exe
+D:\MoiDoki\Projects Visua Studio 2015\Traider непонятность\Traider\bin\Debug\Traider.pdb
+D:\MoiDoki\Projects Visua Studio 2015\Traider непонятность\Traider\bin\Debug\WebDriver.dll
+D:\MoiDoki\Projects Visua Studio 2015\Traider непонятность\Traider\obj\Debug\Traider.csprojResolveAssemblyReference.cache
+D:\MoiDoki\Projects Visua Studio 2015\Traider непонятность\Traider\obj\Debug\Traider.Form1.resources
+D:\MoiDoki\Projects Visua Studio 2015\Traider непонятность\Traider\obj\Debug\Traider.Properties.Resources.resources
+D:\MoiDoki\Projects Visua Studio 2015\Traider непонятность\Traider\obj\Debug\Traider.csproj.GenerateResource.Cache
+D:\MoiDoki\Projects Visua Studio 2015\Traider 50_55\Traider\bin\Debug\Traider.exe.config
+D:\MoiDoki\Projects Visua Studio 2015\Traider 50_55\Traider\obj\Debug\Traider.exe
+D:\MoiDoki\Projects Visua Studio 2015\Traider 50_55\Traider\obj\Debug\Traider.pdb
+D:\MoiDoki\Projects Visua Studio 2015\Traider 50_55\Traider\bin\Debug\Traider.exe
+D:\MoiDoki\Projects Visua Studio 2015\Traider 50_55\Traider\bin\Debug\Traider.pdb
+D:\MoiDoki\Projects Visua Studio 2015\Traider 50_55\Traider\bin\Debug\WebDriver.dll
+D:\MoiDoki\Projects Visua Studio 2015\Traider 50_55\Traider\obj\Debug\Traider.csprojResolveAssemblyReference.cache
+D:\MoiDoki\Projects Visua Studio 2015\Traider 50_55\Traider\obj\Debug\Traider.Form1.resources
+D:\MoiDoki\Projects Visua Studio 2015\Traider 50_55\Traider\obj\Debug\Traider.Properties.Resources.resources
+D:\MoiDoki\Projects Visua Studio 2015\Traider 50_55\Traider\obj\Debug\Traider.csproj.GenerateResource.Cache
+D:\Projects Visua Studio 2015\Traider 50_55\Traider\bin\Debug\Traider.exe.config
+D:\Projects Visua Studio 2015\Traider 50_55\Traider\obj\Debug\Traider.exe
+D:\Projects Visua Studio 2015\Traider 50_55\Traider\obj\Debug\Traider.pdb
+D:\Projects Visua Studio 2015\Traider 50_55\Traider\bin\Debug\Traider.exe
+D:\Projects Visua Studio 2015\Traider 50_55\Traider\bin\Debug\Traider.pdb
+D:\Projects Visua Studio 2015\Traider 50_55\Traider\bin\Debug\WebDriver.dll
+D:\Projects Visua Studio 2015\Traider 50_55\Traider\obj\Debug\Traider.csprojResolveAssemblyReference.cache
+D:\Projects Visua Studio 2015\Traider 50_55\Traider\obj\Debug\Traider.Form1.resources
+D:\Projects Visua Studio 2015\Traider 50_55\Traider\obj\Debug\Traider.Properties.Resources.resources
+D:\Projects Visua Studio 2015\Traider 50_55\Traider\obj\Debug\Traider.csproj.GenerateResource.Cache
+D:\Projects Visua Studio 2015\Traider 50_55\Traider\bin\Debug\MetroFramework.dll
+D:\Projects Visua Studio 2015\Traider 50_55\Traider\bin\Debug\MetroFramework.Fonts.dll
+D:\Projects Visua Studio 2015\Traider 50_55\Traider\bin\Debug\WebDriver.xml
+D:\Projects Visua Studio 2015\Traider 50_00\Traider\bin\Debug\Traider.exe.config
+D:\Projects Visua Studio 2015\Traider 50_00\Traider\obj\Debug\Traider.exe
+D:\Projects Visua Studio 2015\Traider 50_00\Traider\obj\Debug\Traider.pdb
+D:\Projects Visua Studio 2015\Traider 50_00\Traider\bin\Debug\Traider.exe
+D:\Projects Visua Studio 2015\Traider 50_00\Traider\bin\Debug\Traider.pdb
+D:\Projects Visua Studio 2015\Traider 50_00\Traider\bin\Debug\MetroFramework.dll
+D:\Projects Visua Studio 2015\Traider 50_00\Traider\bin\Debug\MetroFramework.Fonts.dll
+D:\Projects Visua Studio 2015\Traider 50_00\Traider\bin\Debug\WebDriver.dll
+D:\Projects Visua Studio 2015\Traider 50_00\Traider\bin\Debug\WebDriver.xml
+D:\Projects Visua Studio 2015\Traider 50_00\Traider\obj\Debug\Traider.csprojResolveAssemblyReference.cache
+D:\Projects Visua Studio 2015\Traider 50_00\Traider\obj\Debug\Traider.Form1.resources
+D:\Projects Visua Studio 2015\Traider 50_00\Traider\obj\Debug\Traider.Properties.Resources.resources
+D:\Projects Visua Studio 2015\Traider 50_00\Traider\obj\Debug\Traider.csproj.GenerateResource.Cache

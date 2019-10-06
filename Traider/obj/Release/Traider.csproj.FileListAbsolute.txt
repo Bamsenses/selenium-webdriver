@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Traider\Traider\bin\Release\Traider.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Traider\Traider\bin\Release\Traider.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Traider\Traider\bin\Release\Traider.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Traider\Traider\bin\Release\ThoughtWorks.Selenium.Core.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Traider\Traider\bin\Release\WebDriver.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Traider\Traider\bin\Release\WebDriver.Support.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Traider\Traider\bin\Release\ThoughtWorks.Selenium.Core.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Traider\Traider\bin\Release\ThoughtWorks.Selenium.Core.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Traider\Traider\bin\Release\WebDriver.Support.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Traider\Traider\bin\Release\WebDriver.Support.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Traider\Traider\obj\Release\Traider.Form1.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Traider\Traider\obj\Release\Traider.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Traider\Traider\obj\Release\Traider.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Traider\Traider\obj\Release\Traider.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Traider\Traider\obj\Release\Traider.pdb
